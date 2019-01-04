@@ -1,0 +1,29 @@
+{
+  "name": "Kompletecare Member App Manual",
+  "short_name": "Member App Manual",
+  "icons": [{
+    "src": "images/logo1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "images/logo2.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "images/logo3.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "images/logo4.png",
+      "sizes": "193x193",
+      "type": "image/png"
+    }, {
+      "src": "images/logo5.png",
+      "sizes": "260x260",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "darkred",
+  "theme_color": "#2F3BA2"
+}

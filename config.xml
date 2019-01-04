@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.kompletecare.manual" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Member Manual</name>
+    <description>
+        Kompletecare Member Manual
+    </description>
+    <author email="support@kompletecare.com" href="https://kompletecare.com">
+        Kompletecare Team
+    </author>
+    <platform name="ios"> 
+    	<icon src="logo4.png" width="193" height="193" />
+    </platform>
+    <platform name="android">  
+    	<icon src="logo4.png" width="193" height="193" />
+    </platform>
+    <content src="index.html" />
+    <access origin="*" />
+    <icon src="logo1.png" />
+</widget>            
